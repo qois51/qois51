@@ -3,10 +3,6 @@
 
 I'm a Computer Science undergraduate at **IPB University**, interested in building software that interacts with the physical world.
 
-My main interests lie in **robotics, embedded systems, and the Internet of Things (IoT)**, particularly in autonomous systems, hardware-software integration, and automation.
-
-I enjoy working across different layers of a system, from programming microcontrollers and integrating sensors to developing control software and communication infrastructure.
-
 ## Currently Exploring & Working With
 
 <table>
